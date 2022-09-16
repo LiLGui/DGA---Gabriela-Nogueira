@@ -1,0 +1,1 @@
+function link(){window.location.href="https://pay.hotmart.com/error?errorMessage=049"}
